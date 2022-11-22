@@ -1,0 +1,43 @@
+body{
+    background-color:skyblue;
+}
+
+#loginbutton{
+    background-color:limegreen;
+    border-radius:20px;
+}
+
+#logoutbutton{
+    background-color:red;
+    border-radius:20px;
+}
+
+#logout{
+    background-color:red;
+    border-radius:20px;
+}
+
+.divlogin{
+    background-color:white;
+    padding:10px;
+    border-radius:15px;
+}
+
+.divaddroom{
+    background-color:white;
+    padding:10px;
+    border-radius:15px;
+}
+
+#addroom{
+    background-color:limegreen;
+    border-radius:20px;
+}
+
+#roomname{
+    border-radius:20px;
+}
+
+.white{
+    color:white;
+}
